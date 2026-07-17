@@ -9,8 +9,8 @@ the longest induced (chordless) path—a *snake*—in the hypercube graph Qₙ; 
 |---|-----------:|---------:|:--:|---------------------:|
 | 9  | **191**  | 190  | +1  | 131 |
 | 10 | **379**  | 376  | +3  | 12 |
-| 11 | **746**  | 737  | +9  | 61 |
-| 12 | **1476** | 1465 | +11 | ≥ 31,821 |
+| 11 | **746**  | 737  | +9  | 72 |
+| 12 | **1476** | 1465 | +11 | ≥ 34,688 |
 | 13 | **2924** | 2900 | +24 | ≥ 30 |
 
 ## Coils — `record_coils.csv`
@@ -20,6 +20,7 @@ the longest induced (chordless) path—a *snake*—in the hypercube graph Qₙ; 
 | 9  | **192** | 188 | +4 | 1 |
 | 10 | **374** | 370 | +4 | 12 |
 | 11 | **732** | 728 | +4 | 2 |
+| 12 | **1466** | 1442 | +24 | 5 |
 
 ## Symmetric coils — `record_symmetric_coils.csv`
 
