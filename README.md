@@ -1,6 +1,6 @@
 # Record snakes and coils in the hypercube (dimensions 9–13)
 
-This repository is the dataset for the paper *A Census of New Snake-in-the-Box Records*. The *snake-in-the-box* problem, introduced by Kautz in 1958, asks for
+This repository is the dataset for the paper [A Census of New Snake-in-the-Box Records](https://arxiv.org/abs/2607.15270). The *snake-in-the-box* problem, introduced by Kautz in 1958, asks for
 the longest induced (chordless) path — a *snake* — in the hypercube graph Qₙ; its maximum length a(n) is known only for n ≤ 8. We give snakes longer than the previous best-known in every dimension from 9 to 13, together with the longest known *coils* (induced cycles). Every record here is a machine-verifiable list of vertices in Qₙ.
 
 ## Snakes — `record_snakes.csv`
