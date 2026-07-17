@@ -11,7 +11,7 @@ the longest induced (chordless) path—a *snake*—in the hypercube graph Qₙ; 
 | 10 | **379**  | 376  | +3  | 12 |
 | 11 | **746**  | 737  | +9  | 61 |
 | 12 | **1476** | 1465 | +11 | ≥ 31,821 |
-| 13 | **2922** | 2900 | +22 | ≥ 883 |
+| 13 | **2924** | 2900 | +24 | ≥ 30 |
 
 ## Coils — `record_coils.csv`
 
